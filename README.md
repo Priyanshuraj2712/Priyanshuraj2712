@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshuraj_27" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshuraj_27?logo=twitter&style=for-the-badge" alt="priyanshuraj_27" /></a> </p>
 
+- 🌱 I’m currently learning **Data Structures and Algorithm**
+
+- 📫 How to reach me **priyanshuraj271204@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyanshuraj_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshuraj_27" height="30" width="40" /></a>
